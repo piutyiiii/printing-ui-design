@@ -1,22 +1,22 @@
-# printing-ui-design
-A website UI/UX design concept created for a modern printing service platform.
+# Printing A — Website UI Design
+A modern website UI/UX design concept for a printing service platform.
 
-🎨 Project Overview
+## 🎨 Project Overview
 This project is a website interface design created for a modern printing
 service business. The design focuses on presenting printing services,
 products, and company information through a clean and visually engaging
 website layout.
 
-👩‍💻 My Role
+## 👩‍💻 My Role
 UI/UX Designer
 
-🛠️ Design Tool
+## 🛠️ Design Tool
 - Figma
 
-💻 Project Type
+## 💻 Project Type
 Website UI/UX Design
 
-✨ Main Sections
+## ✨ Main Sections
 - Hero Section
 - Services
 - Featured Printing Products
@@ -27,12 +27,12 @@ Website UI/UX Design
 - Call to Action
 - Footer
 
-🎯 Design Goals
+## 🎯 Design Goals
 The interface was designed to create a clear and visually appealing
 experience for users who want to explore printing services and products.
 
-🖼️ UI Preview
+## 🖼️ UI Preview
 ![Printing A Website UI](printing-a-ui.png)
 
- 🔗 Figma Prototype
+## 🔗 Figma Prototype
 [View Figma Design] https://www.figma.com/proto/2k05hBfGvFPVb6u2ivsUi3/printing?node-id=1-4&t=mpiMqE7Jsoz1osxI-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1
